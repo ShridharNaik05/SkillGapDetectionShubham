@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log
+
+# Environment files
+.env
+.env.*
+
+# Build outputs
+build/
+dist/
+coverage/
+
+# Runtime data
+*.pid
+*.seed
+*.pid.lock
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local overrides
+*.local
+
+# Uploads and generated assets
+backend/uploads/
